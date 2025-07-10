@@ -221,3 +221,17 @@ a {
   font-weight: 700;
   font-style: normal;
   }
+
+
+
+  #afterCarousel .carousel-control-prev,
+#afterCarousel .carousel-control-next {
+  
+  transform: translateY(-64%);
+ 
+}
+
+
+.carousel-indicators {
+  position: static;
+}
